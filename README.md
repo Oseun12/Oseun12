@@ -1,6 +1,6 @@
-#Hi there 👋 I am Mary Salau (Software Engineer)
+# Hi there 👋 I am Mary Salau (Software Engineer)
 
-##About Me
+## About Me
 
 I am a Fullstack Developer with a deep interest in building interactive, visually appealing, and high-performing web applications. My journey into tech started with a natural curiosity about how websites are built, which has grown into a rewarding career where I constantly explore new ways to improve user experience and functionality.
 
